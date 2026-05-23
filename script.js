@@ -17,3 +17,9 @@ const GitHubBTN = document.getElementById('GitHub');
 GitHubBTN.addEventListener('click', function() {
     window.open('https://github.com/ValentinSTEBAN');
 });
+
+const LinkedinBTN = document.getElementById('Linkedin');
+
+LinkedinBTN.addEventListener('click', function() {
+    window.open('https://www.linkedin.com/in/valentin-steban-42891540a/');
+});
