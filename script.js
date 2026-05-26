@@ -21,5 +21,5 @@ GitHubBTN.addEventListener('click', function() {
 const LinkedinBTN = document.getElementById('linkedin');
 
 LinkedinBTN.addEventListener('click', function() {
-    window.open('https://www.linkedin.com/in/valentin-steban-42891540a/');
+    window.open('https://www.linkedin.com/in/valentin-steban/');
 });
