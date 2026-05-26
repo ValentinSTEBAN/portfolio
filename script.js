@@ -1,8 +1,8 @@
 const CVBtn = document.getElementById('CVPdf');
 
 CVBtn.addEventListener('click', function() {
-    const pdfUrl = 'cv_test.pdf';
-    const fileName = 'cv_test.pdf';
+    const pdfUrl = 'CV_VSTEBAN_2026.pdf';
+    const fileName = 'CV_VSTEBAN_2026.pdf';
     const link = document.createElement('a');
     link.href = pdfUrl;
     link.download = fileName;
